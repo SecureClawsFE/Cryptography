@@ -1,0 +1,5 @@
+To be able to create this project I copied the ciphertext into the IDE replit. Then, I created a variable with the 26 letters of the English alphabet to know which letter occur the most on the ciphertext.
+	
+ Moreover, I created another variable that contains a loop that iterates the letters of the alphabet. I also created a FOR loop that iterates the ciphertext and increments by one +=1.Then, I counted the total count and add then to how many time the letters occur in the ciphertext. Then, to have it more organized I sorted the letters that occur the most by higher to lower using the reverse function. To get the percentage of the occurrence time, I created another loop that iterates the sorted list and divided it by the total count.
+	
+ Furthermore, I created a Dictionario to substitute the most frequent letter in the ciphertext with the table given on the project. Finally (for the coding part), I created a for loop to iterate over the ciphertext replacing the most frequent letters in the ciphertext with function append and print the messy Decryption.
